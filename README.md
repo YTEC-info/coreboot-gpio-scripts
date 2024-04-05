@@ -3,7 +3,7 @@ coreboot GPIO scripts. Based on [Th3Fanbus' repo](https://github.com/Th3Fanbus/g
 
 ## gengpio.c
 This [was uploaded by Stefan Reinauer to coreboot Gerrit](https://review.coreboot.org/14407).
-![Riku_V](https://codeberg.org/Riku_V/) modified this to automatically parse inteltool logs.
+[Riku_V](https://codeberg.org/Riku_V/) modified this to automatically parse inteltool logs.
 
 ### Usage
     make
